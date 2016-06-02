@@ -5,6 +5,14 @@ public class MianProgram {
     public static void main(String[] args){
         IntValue intvalue = new IntValue();
         intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
+        intvalue.setValue(5);
     }
 
 }
